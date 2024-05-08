@@ -46,7 +46,7 @@ tags:
 
 ```html
 Самый длинный клип Twenty One Pilots на песню Level of Concern длится
-<time datetime="117d 16h 10m 25s">177 дней, 16 часов, 10 минут и 25 секунд</time>
+<time datetime="117d 16h 10m 25s">117 дней, 16 часов, 10 минут и 25 секунд</time>
 ```
 
 ## Как пишется
